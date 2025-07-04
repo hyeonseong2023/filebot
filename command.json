@@ -1,0 +1,1 @@
+{"type":"call_tool_request","params":{"tool_name":"list_directory","tool_arguments":{"path":"."}}}
